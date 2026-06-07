@@ -1,0 +1,48 @@
+---
+type: artifact-package
+status: active
+source_note: "[[Background Coding Agents as Practical Leverage]]"
+source_url: "https://x.com/leerob/status/2063055479106879562"
+github_repo: "https://github.com/vinayclawagent-art/background-agent-delegation-kit"
+score: 9
+artifact_tracks: [prototype, infographic, skill]
+improvement_cadence: nightly
+last_improved: 2026-06-07
+tags: [artifact-package, x-intel, coding-agents, workflow-automation]
+---
+
+# Artifact Package: Background Agent Delegation Kit
+
+Source: [[Background Coding Agents as Practical Leverage]]
+
+## Why this matters
+It gives Vinay a buyer-friendly frame for agents: delegate bounded business workflows that end in inspectable artifacts such as PRs, CSVs, pages, dashboards, or comparison carts.
+
+## Artifact score
+**9/10** — high because the source maps to a repeatable agent/product workflow with visual explanation value and a concrete trial surface.
+
+## Generated artifacts
+- Prototype: [[../Prototypes/Background Agent Delegation Kit/delegation-card-builder.html|delegation-card-builder.html]]
+- Infographic: [[../Infographics/Background Agent Delegation Kit/background-agent-delegation-loop.svg|background-agent-delegation-loop.svg]]
+- Skill draft: [[../Skills/background-agent-delegation-cards/SKILL|background-agent-delegation-cards]]
+- Improvement loop: [[../Improvement-Loops/Background Agent Delegation Kit Loop|Background Agent Delegation Kit Loop]]
+
+## GitHub repo
+https://github.com/vinayclawagent-art/background-agent-delegation-kit
+
+## Prototype brief
+A mobile-friendly builder for converting a messy business task into an agent-sized delegation card with inputs, tools, output, review gate, and kill switch.
+
+## Infographic brief
+Show the source idea as a practical loop: intake → scoped agent run → visible execution → evidence capture → human decision.
+
+## Skill candidate
+Reusable process for turning business workflows into background-agent tasks with verifiable artifacts and human review gates.
+
+## Improvement backlog
+- Run one real-world trial and attach evidence rather than claiming validation now.
+- Add a worked example from VinClawLabs/Mission Control after first use.
+- Decide whether to promote the skill draft after one successful repeat.
+
+## Change log
+- 2026-06-07: Created artifact package, prototype, infographic, skill draft, improvement loop, and GitHub repo mirror.
