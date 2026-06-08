@@ -5,7 +5,7 @@ package: "[[Background Agent Delegation Kit]]"
 github_repo: "https://github.com/vinayclawagent-art/background-agent-delegation-kit"
 cadence: nightly
 last_improved: 2026-06-08
-next_focus: Fill [[VinClawLabs Delegation Card Trial Packet]] during the next real real VinClawLabs background-agent delegation task, then record the promote card format / pilot-only / iterate card / retire decision with source-backed evidence.
+next_focus: Fill [[VinClawLabs Delegation Card Trial Packet]] during the next real VinClawLabs background-agent delegation task, then record the promote card format / pilot-only / iterate card / retire decision with source-backed evidence.
 tags: [improvement-loop, x-artifact-factory, agent-workflows]
 ---
 
@@ -19,5 +19,5 @@ Turn [[Background Coding Agents as Practical Leverage]] into a reusable, inspect
 - 2026-06-07: Created package README, prototype builder/checklist, infographic, skill draft, isolated repo mirror, and this improvement loop.
 
 ## Next focus
-- Fill [[VinClawLabs Delegation Card Trial Packet]] during the next real real VinClawLabs background-agent delegation task, then record the promote card format / pilot-only / iterate card / retire decision with source-backed evidence.
+- Fill [[VinClawLabs Delegation Card Trial Packet]] during the next real VinClawLabs background-agent delegation task, then record the promote card format / pilot-only / iterate card / retire decision with source-backed evidence.
 - Keep wording evidence-ready, not validation-complete, until a real trial fills the packet.

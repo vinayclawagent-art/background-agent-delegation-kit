@@ -5,7 +5,7 @@ Improvement loop: [[Background Agent Delegation Kit Loop]]
 Source note: [[Background Coding Agents as Practical Leverage]]
 
 ## When to use
-Use this packet during the next real real VinClawLabs background-agent delegation task. It sequences the existing prototype and proof fields so the future run can produce source-backed evidence without pretending validation has already happened.
+Use this packet during the next real VinClawLabs background-agent delegation task. It sequences the existing prototype and proof fields so the future run can produce source-backed evidence without pretending validation has already happened.
 
 ## Ordered packet steps
 
@@ -53,7 +53,7 @@ Use this packet during the next real real VinClawLabs background-agent delegatio
 ## Copyable changelog line after the real run
 
 ```markdown
-- YYYY-MM-DD: Filled [[VinClawLabs Delegation Card Trial Packet]] during a real real VinClawLabs background-agent delegation task and recorded the promote card format / pilot-only / iterate card / retire decision with linked evidence.
+- YYYY-MM-DD: Filled [[VinClawLabs Delegation Card Trial Packet]] during a real VinClawLabs background-agent delegation task and recorded the promote card format / pilot-only / iterate card / retire decision with linked evidence.
 ```
 
 ## Next action
