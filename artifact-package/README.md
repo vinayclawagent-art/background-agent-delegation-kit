@@ -7,7 +7,7 @@ github_repo: "https://github.com/vinayclawagent-art/background-agent-delegation-
 score: 9
 artifact_tracks: [prototype, infographic, skill]
 improvement_cadence: nightly
-last_improved: 2026-06-07
+last_improved: 2026-06-08
 tags: [artifact-package, x-intel, coding-agents, workflow-automation]
 ---
 
@@ -23,6 +23,7 @@ It gives Vinay a buyer-friendly frame for agents: delegate bounded business work
 
 ## Generated artifacts
 - Prototype: [[../Prototypes/Background Agent Delegation Kit/delegation-card-builder.html|delegation-card-builder.html]]
+- Trial packet: [[../Prototypes/Background Agent Delegation Kit/VinClawLabs Delegation Card Trial Packet|VinClawLabs Delegation Card Trial Packet]]
 - Infographic: [[../Infographics/Background Agent Delegation Kit/background-agent-delegation-loop.svg|background-agent-delegation-loop.svg]]
 - Skill draft: [[../Skills/background-agent-delegation-cards/SKILL|background-agent-delegation-cards]]
 - Improvement loop: [[../Improvement-Loops/Background Agent Delegation Kit Loop|Background Agent Delegation Kit Loop]]
@@ -40,9 +41,12 @@ Show the source idea as a practical loop: intake → scoped agent run → visibl
 Reusable process for turning business workflows into background-agent tasks with verifiable artifacts and human review gates.
 
 ## Improvement backlog
-- Run one real-world trial and attach evidence rather than claiming validation now.
+- [x] Add a fillable trial packet so the next real run has a single proof path.
+- [ ] Run one real-world trial with [[../Prototypes/Background Agent Delegation Kit/VinClawLabs Delegation Card Trial Packet|VinClawLabs Delegation Card Trial Packet]] and attach evidence rather than claiming validation now.
 - Add a worked example from VinClawLabs/Mission Control after first use.
 - Decide whether to promote the skill draft after one successful repeat.
 
 ## Change log
 - 2026-06-07: Created artifact package, prototype, infographic, skill draft, improvement loop, and GitHub repo mirror.
+
+- 2026-06-08: Added [[../Prototypes/Background Agent Delegation Kit/VinClawLabs Delegation Card Trial Packet|VinClawLabs Delegation Card Trial Packet]] and tightened the prototype README for the next real trial; no validation evidence invented.
