@@ -41,6 +41,7 @@ Show the source idea as a practical loop: intake → scoped agent run → visibl
 Reusable process for turning business workflows into background-agent tasks with verifiable artifacts and human review gates.
 
 ## Improvement backlog
+- Fill [[../Prototypes/Background Agent Delegation Kit/Post-Trial Debrief Template|Post-Trial Debrief Template]] immediately after the next real trial so promotion decisions are evidence-backed.
 - [x] Add a fillable trial packet so the next real run has a single proof path.
 - [ ] Run one real-world trial with [[../Prototypes/Background Agent Delegation Kit/VinClawLabs Delegation Card Trial Packet|VinClawLabs Delegation Card Trial Packet]] and attach evidence rather than claiming validation now.
 - Add a worked example from VinClawLabs/Mission Control after first use.
@@ -50,3 +51,5 @@ Reusable process for turning business workflows into background-agent tasks with
 - 2026-06-07: Created artifact package, prototype, infographic, skill draft, improvement loop, and GitHub repo mirror.
 
 - 2026-06-08: Added [[../Prototypes/Background Agent Delegation Kit/VinClawLabs Delegation Card Trial Packet|VinClawLabs Delegation Card Trial Packet]] and tightened the prototype README for the next real trial; no validation evidence invented.
+
+- 2026-06-11: Added [[../Prototypes/Background Agent Delegation Kit/Post-Trial Debrief Template|Post-Trial Debrief Template]] for post-trial evidence capture.
