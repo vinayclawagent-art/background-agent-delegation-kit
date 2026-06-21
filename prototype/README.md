@@ -12,3 +12,6 @@ Use [[VinClawLabs Delegation Card Trial Packet]] as the canonical next-run packe
 - Fill the packet during a real VinClawLabs background-agent delegation task.
 - Attach source-backed proof; do not infer success from the template existing.
 - Update the package and loop changelog only after the real run creates evidence.
+
+## Evidence quality gate
+- [[Delegation Evidence Quality Rubric]] — grade future real-trial proof before changing README, prototype, or skill-draft claims. Template-ready; evidence pending.

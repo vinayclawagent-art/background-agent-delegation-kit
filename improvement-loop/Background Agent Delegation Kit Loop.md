@@ -4,8 +4,8 @@ status: active
 package: "[[Background Agent Delegation Kit]]"
 github_repo: "https://github.com/vinayclawagent-art/background-agent-delegation-kit"
 cadence: nightly
-last_improved: 2026-06-11
-next_focus: Fill Post-Trial Debrief Template after the next real trial, then decide promote / pilot-only / iterate / hold with evidence.
+last_improved: 2026-06-21
+next_focus: "Run the next real delegation-card trial, fill the trial packet and post-trial debrief, grade proof with the Delegation Evidence Quality Rubric, then patch README/skill claims only where evidence supports them."
 tags: [improvement-loop, x-artifact-factory, agent-workflows]
 ---
 

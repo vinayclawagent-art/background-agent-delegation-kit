@@ -7,7 +7,7 @@ github_repo: "https://github.com/vinayclawagent-art/background-agent-delegation-
 score: 9
 artifact_tracks: [prototype, infographic, skill]
 improvement_cadence: nightly
-last_improved: 2026-06-08
+last_improved: 2026-06-21
 tags: [artifact-package, x-intel, coding-agents, workflow-automation]
 ---
 
@@ -22,6 +22,7 @@ It gives Vinay a buyer-friendly frame for agents: delegate bounded business work
 **9/10** — high because the source maps to a repeatable agent/product workflow with visual explanation value and a concrete trial surface.
 
 ## Generated artifacts
+- Evidence quality rubric: [[../Prototypes/Background Agent Delegation Kit/Delegation Evidence Quality Rubric|Delegation Evidence Quality Rubric]]
 - Prototype: [[../Prototypes/Background Agent Delegation Kit/delegation-card-builder.html|delegation-card-builder.html]]
 - Trial packet: [[../Prototypes/Background Agent Delegation Kit/VinClawLabs Delegation Card Trial Packet|VinClawLabs Delegation Card Trial Packet]]
 - Infographic: [[../Infographics/Background Agent Delegation Kit/background-agent-delegation-loop.svg|background-agent-delegation-loop.svg]]
@@ -48,6 +49,7 @@ Reusable process for turning business workflows into background-agent tasks with
 - Decide whether to promote the skill draft after one successful repeat.
 
 ## Change log
+- 2026-06-21: Added [[../Prototypes/Background Agent Delegation Kit/Delegation Evidence Quality Rubric|Delegation Evidence Quality Rubric]] so future trial proof is graded before README/prototype/skill claims change; rubric is template-ready, not validation proof.
 - 2026-06-07: Created artifact package, prototype, infographic, skill draft, improvement loop, and GitHub repo mirror.
 
 - 2026-06-08: Added [[../Prototypes/Background Agent Delegation Kit/VinClawLabs Delegation Card Trial Packet|VinClawLabs Delegation Card Trial Packet]] and tightened the prototype README for the next real trial; no validation evidence invented.
