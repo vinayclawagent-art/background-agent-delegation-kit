@@ -20,6 +20,7 @@ Turn [[Background Coding Agents as Practical Leverage]] into a reusable, inspect
 - 2026-06-07: Created package README, prototype builder/checklist, infographic, skill draft, isolated repo mirror, and this improvement loop.
 
 ## Next focus
-- Fill [[Post-Trial Debrief Template]] after the next real trial; keep wording template-ready, not validated.
-- Fill [[VinClawLabs Delegation Card Trial Packet]] during the next real VinClawLabs background-agent delegation task, then record the promote card format / pilot-only / iterate card / retire decision with source-backed evidence.
-- Keep wording evidence-ready, not validation-complete, until a real trial fills the packet.
+Run the next real delegation-card trial, fill the trial packet and post-trial debrief, grade proof with the Delegation Evidence Quality Rubric, then patch README/skill claims only where evidence supports them.
+
+## Backlog
+- [x] Add an evidence quality rubric to gate future claims after the first real trial.
