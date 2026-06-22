@@ -18,3 +18,5 @@ Use [[VinClawLabs Delegation Card Trial Packet]] as the canonical next-run packe
 
 ## Promotion decision gate
 - [[Delegation Promotion Decision Card]] — after the trial packet, debrief, and rubric are filled, choose promote / pilot-only / iterate / hold and map every proposed README, skill, or public-proof claim to evidence. Template-ready; evidence pending.
+## Trial evidence index
+- [[Delegation Trial Evidence Index]] — after the next real trial, map each proof link to safe package/prototype/skill wording before patching public claims. Template-ready; evidence pending.

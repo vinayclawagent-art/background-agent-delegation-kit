@@ -24,3 +24,4 @@ Open the prototype markdown/HTML files, fill them during a real workflow, and on
 
 ## Latest improvement
 2026-06-22: Added Delegation Promotion Decision Card so the next real delegation-card trial ends in a promote / pilot-only / iterate / hold decision before any README, skill, or public-proof claims are strengthened.
+- 2026-06-22: Added Delegation Trial Evidence Index; status remains template-ready/evidence-pending.
