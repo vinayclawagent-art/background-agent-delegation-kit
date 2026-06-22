@@ -5,7 +5,7 @@ package: "[[Background Agent Delegation Kit]]"
 github_repo: "https://github.com/vinayclawagent-art/background-agent-delegation-kit"
 cadence: nightly
 last_improved: 2026-06-22
-next_focus: "Run the next real delegation-card trial, fill the trial packet/debrief/rubric/promotion card, then use the Delegation Trial Evidence Index to route each evidence link to safe README/prototype/skill patches."
+next_focus: "Use the Delegation Trial Operator Handoff Checklist to run the next real delegation-card trial through the packet, evidence index, rubric, debrief, and promotion decision before any README/prototype/skill claims change."
 tags: [improvement-loop, x-artifact-factory, agent-workflows]
 ---
 
@@ -15,6 +15,7 @@ tags: [improvement-loop, x-artifact-factory, agent-workflows]
 Turn [[Background Coding Agents as Practical Leverage]] into a reusable, inspectable artifact package with at least one real-world trial before promotion.
 
 ## Latest improvement
+- 2026-06-22: Added [[Artifacts/Prototypes/Background Agent Delegation Kit/Delegation Trial Operator Handoff Checklist.md|Delegation Trial Operator Handoff Checklist]] so the next real delegation trial has an operator-ready sequence from packet through evidence index, rubric, debrief, and promotion decision. Evidence remains pending.
 - 2026-06-22: Added [[Artifacts/Prototypes/Background Agent Delegation Kit/Delegation Trial Evidence Index.md|Delegation Trial Evidence Index]] so future trial evidence is routed to specific README/prototype/skill patch decisions. Template-ready only; evidence remains pending.
 - 2026-06-22: Added [[Artifacts/Prototypes/Background Agent Delegation Kit/Delegation Promotion Decision Card|Delegation Promotion Decision Card]] so the next real trial ends in an explicit promote / pilot-only / iterate / hold decision before any stronger claims. Card is ready; evidence remains pending.
 - 2026-06-21: Added [[Artifacts/Prototypes/Background Agent Delegation Kit/Delegation Evidence Quality Rubric|Delegation Evidence Quality Rubric]] so future proof is graded before any stronger claims or skill promotion. Rubric is ready; no validation proof invented.
@@ -23,8 +24,9 @@ Turn [[Background Coding Agents as Practical Leverage]] into a reusable, inspect
 - 2026-06-07: Created package README, prototype builder/checklist, infographic, skill draft, isolated repo mirror, and this improvement loop.
 
 ## Next focus
-Run the next real delegation-card trial, fill the trial packet/debrief/rubric/promotion card, then use the Delegation Trial Evidence Index to route each evidence link to safe README/prototype/skill patches.
+Use the Delegation Trial Operator Handoff Checklist to run the next real delegation-card trial through the packet, evidence index, rubric, debrief, and promotion decision before any README/prototype/skill claims change.
 
 ## Backlog
+- [x] Add a trial operator handoff checklist to sequence the next real delegation-card trial across the packet, evidence index, rubric, debrief, and promotion decision.
 - [x] Add a promotion decision card to force an explicit promote / pilot-only / iterate / hold gate after the next real trial.
 - [x] Add an evidence quality rubric to gate future claims after the first real trial.
