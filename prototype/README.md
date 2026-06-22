@@ -15,3 +15,6 @@ Use [[VinClawLabs Delegation Card Trial Packet]] as the canonical next-run packe
 
 ## Evidence quality gate
 - [[Delegation Evidence Quality Rubric]] — grade future real-trial proof before changing README, prototype, or skill-draft claims. Template-ready; evidence pending.
+
+## Promotion decision gate
+- [[Delegation Promotion Decision Card]] — after the trial packet, debrief, and rubric are filled, choose promote / pilot-only / iterate / hold and map every proposed README, skill, or public-proof claim to evidence. Template-ready; evidence pending.

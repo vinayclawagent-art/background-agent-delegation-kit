@@ -4,7 +4,7 @@ Visible X-Artifact Factory kit generated from [[Background Coding Agents as Prac
 
 - Source X: https://x.com/leerob/status/2063055479106879562
 - GitHub: https://github.com/vinayclawagent-art/background-agent-delegation-kit
-- Status: template-ready evidence quality gate added; real validation pending
+- Status: template-ready promotion decision gate added; real validation pending
 
 ## What this repo contains
 
@@ -15,6 +15,7 @@ Visible X-Artifact Factory kit generated from [[Background Coding Agents as Prac
 - improvement-loop/ — recurring improvement tracker.
 
 ## Latest artifacts
+- prototype/Delegation Promotion Decision Card.md
 - prototype/Delegation Evidence Quality Rubric.md
 - prototype/README.md
 
@@ -22,4 +23,4 @@ Visible X-Artifact Factory kit generated from [[Background Coding Agents as Prac
 Open the prototype markdown/HTML files, fill them during a real workflow, and only promote claims after evidence is attached.
 
 ## Latest improvement
-2026-06-21: Added Delegation Evidence Quality Rubric as the proof-quality gate for the next real trial.
+2026-06-22: Added Delegation Promotion Decision Card so the next real delegation-card trial ends in a promote / pilot-only / iterate / hold decision before any README, skill, or public-proof claims are strengthened.
